@@ -25,7 +25,7 @@ public class Student {
 
     public void getLesson() {
         for(String l:lesson){
-            System.out.println(l+" ");
+            System.out.print(l+" ");
         }
     }
 
